@@ -1,7 +1,9 @@
+*.a
 *.dSYM
 *.o
 *.pyc
+*.so
 build
 doc/.build
-util/create_discodb
-util/query_discodb
+create
+query
